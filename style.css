@@ -1,0 +1,11 @@
+.navbar{
+    background-color: transparent;
+    padding: 1rem 0;
+    position: absolute; /* allows it to float over the background */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+
+
+}
