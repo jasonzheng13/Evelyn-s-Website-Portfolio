@@ -16,4 +16,23 @@
     align-items: center;
     padding: 0 2rem;
 }
+
+.mouseingrass {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+    object-fit: cover;
+    object-position: bottom;
+    
+}
    
+.mcdonaldsmockups {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin-top: 600px;
+
+}
