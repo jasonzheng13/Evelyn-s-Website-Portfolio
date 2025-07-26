@@ -37,7 +37,7 @@
 
 h2 {
     font-family: Josefin Sans;
-    font-size: 50;
+    font-size: 30px;
     font-weight: 300;
     color: white;
     text-shadow:
@@ -59,4 +59,15 @@ body {
 @font-face {
     src: url(fonts/JosefinSans-VariableFont_wght.ttf);
     font-family: 'Josefin Sans';
+}
+
+.portfolio {
+    letter-spacing: -3px;
+}
+
+h1 {
+    font-size: 55px;
+    position: relative;
+    left: 140px;
+    top: 120px;
 }
