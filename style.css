@@ -20,12 +20,14 @@ html{
     align-items: center;
     padding: 0 2rem;
 }
+
 .top-section{
     margin:0;
     padding:0;
     box-sizing: border-box;
     height: 100vh;
 }
+
 .mouseingrass{
     position: absolute;
     top: 0;
@@ -56,15 +58,18 @@ h2 {
 body {
     overflow-x: hidden;
 }
+
 @font-face {
     src: url(fonts/JosefinSans-VariableFont_wght.ttf);
     font-family: 'Josefin Sans';
 
 }
+
 @font-face{
     src:url(fonts/JosefinSlab-Italic-VariableFont_wght.ttf);
     font-family: 'Josefin Slab';
 }
+
 @font-face{
     src: url(fonts/jsMath-cmmi10.ttf);
     font-family:'jsMath-cmmi10';
@@ -120,22 +125,27 @@ body {
 .letter-o3{
     font-family: jsMath-cmmi10;
 }
-.featured{
-    padding-left: 60px;
-}
+
 .featured-text{
     color: black;
     font-family: Josefin Sans;
     font-weight: 600;
     font-size: 35px;
+    padding-left: 105px;
 }
+
 .mcdonalds{
-    width: 95%;
-    height: 90vh;
+    width:85%;
+    height: 80vh;
     overflow: hidden;
     object-fit: cover;
     object-position: center;
+    margin: auto;
+    display: block; 
+}
 
+.hivespace{
+    
 }
 
 
